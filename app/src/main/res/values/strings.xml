@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesCRUD</string>
+    <string name="updated_at">Updated At</string>
+    <string name="note">Note</string>
+    <string name="enter_your_note_details">Enter your Note Details</string>
+    <string name="enter_note_title">Enter Note Title</string>
+</resources>
